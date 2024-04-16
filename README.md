@@ -1,0 +1,1 @@
+to use the application download python you need to download the library via pip install pywebview
